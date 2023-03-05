@@ -2,5 +2,6 @@
 ipliste = {
     ["main"]={
             ["217.195.202.80"]="access_reina",
+            ["35.181.45.5"]="access_resina",
     }    
 }
